@@ -1,0 +1,1002 @@
+{
+	"result": {
+		"index": [{
+				"downloadid": 9326,
+				"cd_downloads": 2,
+				"id": 48,
+				"title": "50 Blues Rhythms You MUST Know",
+				"status": 1,
+				"release_date": "2013-01-24 00:00:00",
+				"authorid": 4200,
+				"video_count": 54,
+				"style_tags": [
+					"Blues"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate"
+				],
+				"series_tags": [
+					"Licks You Must Know"
+				],
+				"curriculum_tags": [
+					"Rhythm",
+					"Chord Progressions",
+					"Comping",
+					"Strumming"
+				],
+				"educator": "Corey Congilio",
+				"owned": 1,
+				"sale": 1,
+				"purchase_order": 2,
+				"watched": 43,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 10861,
+				"cd_downloads": 1,
+				"id": 680,
+				"title": "10 Guitar Licks You Must Know",
+				"status": 1,
+				"release_date": "2014-03-13 00:00:00",
+				"authorid": 6,
+				"video_count": 10,
+				"style_tags": [
+					"Multi-Style"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Beginner"
+				],
+				"series_tags": [
+					"Licks You Must Know"
+				],
+				"curriculum_tags": [
+					"Licks"
+				],
+				"educator": "TrueFire",
+				"owned": 1,
+				"sale": 0,
+				"purchase_order": 4,
+				"watched": 1,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 10917,
+				"cd_downloads": 1,
+				"id": 698,
+				"title": "Blues Americana",
+				"status": 1,
+				"release_date": "2014-07-23 12:00:00",
+				"authorid": 4324,
+				"video_count": 46,
+				"style_tags": [
+					"Blues",
+					"Blues-Rock"
+				],
+				"skill_tags": [
+					"Intermediate"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Rhythm",
+					"Improvisation",
+					"Scales",
+					"Double Stops",
+					"Jamming",
+					"Picking",
+					"Pentatonic",
+					"Blues Scales",
+					"Phrasing"
+				],
+				"educator": "Mike Zito",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 41,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 11873,
+				"cd_downloads": 1,
+				"id": 985,
+				"title": "30 Beginner Blues Guitar Licks You MUST Know",
+				"status": 1,
+				"release_date": "2016-02-01 12:00:00",
+				"authorid": 4200,
+				"video_count": 32,
+				"style_tags": [
+					"Blues"
+				],
+				"skill_tags": [
+					"Beginner",
+					"Late Beginner"
+				],
+				"series_tags": [
+					"Licks You Must Know"
+				],
+				"curriculum_tags": [
+					"Left-Hand Techniques",
+					"Licks",
+					"Picking",
+					"Pentatonic",
+					"Right-Hand Techniques",
+					"Phrasing",
+					"Bending"
+				],
+				"educator": "Corey Congilio",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 3,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 12017,
+				"cd_downloads": 1,
+				"id": 1013,
+				"title": "Jazz Guitar Fakebook: Rhythm Vol. 2",
+				"status": 1,
+				"release_date": "2016-05-19 12:00:00",
+				"authorid": 3424,
+				"video_count": 62,
+				"style_tags": [
+					"Jazz"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate"
+				],
+				"series_tags": [
+					"Fakebook"
+				],
+				"curriculum_tags": [
+					"Rhythm",
+					"Jamming",
+					"Chord Progressions",
+					"Comping",
+					"Strumming",
+					"Arrangement",
+					"Chord Substitution"
+				],
+				"educator": "Frank Vignola",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 39,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 12083,
+				"cd_downloads": 1,
+				"id": 1023,
+				"title": "Beginner Blues-Rock Soloing",
+				"status": 1,
+				"release_date": "2016-07-11 12:00:00",
+				"authorid": 224,
+				"video_count": 61,
+				"style_tags": [
+					"Blues",
+					"Blues-Rock"
+				],
+				"skill_tags": [
+					"Beginner",
+					"Late Beginner"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Legato",
+					"Left-Hand Techniques",
+					"Picking",
+					"Pentatonic",
+					"Blues Scales",
+					"Right-Hand Techniques",
+					"Bending"
+				],
+				"educator": "Jeff McErlain",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 5,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 12121,
+				"cd_downloads": 1,
+				"id": 1031,
+				"title": "Guitar Lab: The Imaj7 IVm6 Progression",
+				"status": 1,
+				"release_date": "2016-08-01 17:05:00",
+				"authorid": 7,
+				"video_count": 19,
+				"style_tags": [
+					"Multi-Style"
+				],
+				"skill_tags": [
+					"Late Intermediate",
+					"Advanced"
+				],
+				"series_tags": [
+					"Guitar Lab"
+				],
+				"curriculum_tags": [
+					"Scales",
+					"Chords",
+					"Applied Theory"
+				],
+				"educator": "Brad Carlton",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 37,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 12133,
+				"cd_downloads": 1,
+				"id": 1034,
+				"title": "Learn Guitar 1: First Steps for Beginners (FREE)",
+				"status": 1,
+				"release_date": "2016-09-14 00:00:00",
+				"authorid": 6,
+				"video_count": 34,
+				"style_tags": [
+					"Multi-Style"
+				],
+				"skill_tags": [
+					"Beginner"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Rhythm",
+					"Left-Hand Techniques",
+					"Chords",
+					"Chord Progressions",
+					"Strumming",
+					"Right-Hand Techniques"
+				],
+				"educator": "TrueFire",
+				"owned": 0,
+				"sale": 0,
+				"purchase_order": false,
+				"watched": 7,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 12387,
+				"cd_downloads": 1,
+				"id": 1115,
+				"title": "30 Rootsy Acoustic Rhythms You MUST Know",
+				"status": 1,
+				"release_date": "2016-10-12 12:00:00",
+				"authorid": 4324,
+				"video_count": 32,
+				"style_tags": [
+					"Country",
+					"Acoustic Blues"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Beginner"
+				],
+				"series_tags": [
+					"Licks You Must Know"
+				],
+				"curriculum_tags": [
+					"Rhythm",
+					"Left-Hand Techniques",
+					"Chords",
+					"Strumming",
+					"Right-Hand Techniques"
+				],
+				"educator": "Mike Zito",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 35,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 12725,
+				"cd_downloads": 1,
+				"id": 1154,
+				"title": "Blues Guitar Fakebook: Rhythm Vol. 1",
+				"status": 1,
+				"release_date": "2017-03-01 12:00:00",
+				"authorid": 4200,
+				"video_count": 62,
+				"style_tags": [
+					"Blues"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate",
+					"Late Beginner"
+				],
+				"series_tags": [
+					"Fakebook"
+				],
+				"curriculum_tags": [
+					"Rhythm",
+					"Left-Hand Techniques",
+					"Jamming",
+					"Chords",
+					"Chord Progressions",
+					"Comping",
+					"Strumming",
+					"Right-Hand Techniques"
+				],
+				"educator": "Corey Congilio",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 9,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 13392,
+				"cd_downloads": 1,
+				"id": 1258,
+				"title": "Brazilian Jazz Guitarra",
+				"status": 1,
+				"release_date": "2018-06-28 12:00:00",
+				"authorid": 4426,
+				"video_count": 37,
+				"style_tags": [
+					"Jazz",
+					"Fingerstyle",
+					"Latin",
+					"World"
+				],
+				"skill_tags": [
+					"Late Intermediate",
+					"Advanced"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Finger Picking",
+					"Solo Guitar",
+					"Arrangement",
+					"Right-Hand Techniques",
+					"Songs",
+					"Style Studies"
+				],
+				"educator": "Diego Figueiredo",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 32,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 13488,
+				"cd_downloads": 1,
+				"id": 1271,
+				"title": "Learn Bass 1: First Steps for Beginners (FREE)",
+				"status": 1,
+				"release_date": "2018-06-07 12:00:00",
+				"authorid": 4127,
+				"video_count": 28,
+				"style_tags": [
+					"Multi-Style"
+				],
+				"skill_tags": [
+					"Beginner"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Techniques",
+					"Rhythm",
+					"Left-Hand Techniques",
+					"Right-Hand Techniques",
+					"Bass Lines"
+				],
+				"educator": "Stu Hamm",
+				"owned": 0,
+				"sale": 0,
+				"purchase_order": false,
+				"watched": 10,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 13723,
+				"cd_downloads": 1,
+				"id": 1323,
+				"title": "Blues Speak",
+				"status": 1,
+				"release_date": "2018-12-23 12:00:00",
+				"authorid": 4494,
+				"video_count": 51,
+				"style_tags": [
+					"Blues",
+					"Blues-Rock"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate",
+					"Advanced"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Techniques",
+					"Soloing",
+					"Improvisation",
+					"Left-Hand Techniques",
+					"Licks",
+					"Blues Scales",
+					"Right-Hand Techniques",
+					"Phrasing",
+					"Bending",
+					"Chord Tone",
+					"Vibrato",
+					"Hammer-Ons",
+					"Riffs",
+					"Fills"
+				],
+				"educator": "Matt Schofield",
+				"owned": 1,
+				"sale": 1,
+				"purchase_order": 3,
+				"watched": 29,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 13820,
+				"cd_downloads": 1,
+				"id": 1338,
+				"title": "30 Cutting-Edge Rhythm & Blues Grooves You MUST Know",
+				"status": 1,
+				"release_date": "2018-10-31 12:00:00",
+				"authorid": 4425,
+				"video_count": 31,
+				"style_tags": [
+					"Blues",
+					"Blues-Rock",
+					"R&B",
+					"Multi-Style"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate"
+				],
+				"series_tags": [
+					"Licks You Must Know"
+				],
+				"curriculum_tags": [
+					"Techniques",
+					"Rhythm",
+					"Licks",
+					"Chord Progressions",
+					"Comping",
+					"Strumming",
+					"Groove",
+					"Right-Hand Techniques"
+				],
+				"educator": "Jay-P",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 12,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 13840,
+				"cd_downloads": 1,
+				"id": 1342,
+				"title": "Take 5: Blues Arpeggios",
+				"status": 1,
+				"release_date": "2018-11-15 12:00:00",
+				"authorid": 224,
+				"video_count": 19,
+				"style_tags": [
+					"Blues",
+					"Blues-Rock"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate"
+				],
+				"series_tags": [
+					"Take 5"
+				],
+				"curriculum_tags": [
+					"Techniques",
+					"Soloing",
+					"Improvisation",
+					"Arpeggios",
+					"Applied Theory"
+				],
+				"educator": "Jeff McErlain",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 30,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 13992,
+				"cd_downloads": 1,
+				"id": 1367,
+				"title": "Certified Guitar Duets",
+				"status": 1,
+				"release_date": "2019-01-16 10:09:00",
+				"authorid": 3861,
+				"video_count": 22,
+				"style_tags": [
+					"Fingerstyle"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate",
+					"Advanced"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Finger Picking",
+					"Arrangement",
+					"Performance",
+					"Songs"
+				],
+				"educator": "Tommy Emmanuel",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 15,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 14434,
+				"cd_downloads": 1,
+				"id": 1442,
+				"title": "Sound on Sound",
+				"status": 1,
+				"release_date": "2019-10-28 12:00:00",
+				"authorid": 4214,
+				"video_count": 60,
+				"style_tags": [
+					"Jazz",
+					"Rock",
+					"Country",
+					"Songwriting",
+					"Multi-Style",
+					"Pop",
+					"Singer-Songwriter"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate",
+					"Advanced"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Techniques",
+					"Rhythm",
+					"Soloing",
+					"Songwriting",
+					"Tone",
+					"Percussive Technique",
+					"Arrangement",
+					"Arranging",
+					"Melody",
+					"Harmony",
+					"Accompaniment",
+					"Les Paul",
+					"Multi-tracking",
+					"Overdubbing",
+					"Singer-Songwriter"
+				],
+				"educator": "Jason Loughlin",
+				"owned": 1,
+				"sale": 1,
+				"purchase_order": 0,
+				"watched": 23,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 14799,
+				"cd_downloads": 1,
+				"id": 1505,
+				"title": "Solo Jazz Pathways: Chordal Improv",
+				"status": 1,
+				"release_date": "2020-03-09 16:00:00",
+				"authorid": 4539,
+				"video_count": 69,
+				"style_tags": [
+					"Jazz",
+					"Jazz Blues"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate",
+					"Advanced"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Soloing",
+					"Improvisation",
+					"Chords",
+					"Chord Inversions",
+					"Jazz Scales",
+					"Melody",
+					"Performance"
+				],
+				"educator": "Tim Lerch",
+				"owned": 1,
+				"sale": 1,
+				"purchase_order": 1,
+				"watched": 23,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 17089,
+				"cd_downloads": 1,
+				"id": 1631,
+				"title": "Rock & Blues Licks for Soloing",
+				"status": 1,
+				"release_date": "2020-12-05 12:00:00",
+				"authorid": 4603,
+				"video_count": 20,
+				"style_tags": [
+					"Blues",
+					"Blues-Rock",
+					"Rock"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate",
+					"Advanced"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Soloing",
+					"Improvisation",
+					"Arpeggios",
+					"Double Stops",
+					"Legato",
+					"Left-Hand Techniques",
+					"Jamming",
+					"Licks",
+					"Pentatonic",
+					"Blues Scales",
+					"Melody",
+					"Applied Theory",
+					"Bending",
+					"Major Pentatonic",
+					"Chord Tone",
+					"Pull-Offs",
+					"Hammer-Ons",
+					"Style Studies",
+					"Riffs",
+					"Fills",
+					"Slides",
+					"Embellishments"
+				],
+				"educator": "Tim Pierce",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 16,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 17603,
+				"cd_downloads": 0,
+				"id": 1693,
+				"title": "Jimmy's Blues House",
+				"status": 1,
+				"release_date": "2021-08-26 00:00:00",
+				"authorid": 4609,
+				"video_count": 71,
+				"style_tags": [
+					"Blues",
+					"Blues-Rock"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate"
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					"Techniques",
+					"Rhythm",
+					"Soloing",
+					"Improvisation",
+					"Left-Hand Techniques",
+					"Licks",
+					"Chords",
+					"Chord Progressions",
+					"Comping",
+					"Pentatonic",
+					"Composition",
+					"Right-Hand Techniques",
+					"Phrasing",
+					"Performance",
+					"Style Studies",
+					"Riffs",
+					"Fills",
+					"Accompaniment",
+					"Backup",
+					"Progressions",
+					"Vocals"
+				],
+				"educator": "Jimmy  Vivino",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 41,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 17651,
+				"cd_downloads": 0,
+				"id": 1703,
+				"title": "Practice Sessions: Jazz Melodic Approaches",
+				"status": 1,
+				"release_date": "2021-09-02 00:00:00",
+				"authorid": 4225,
+				"video_count": 26,
+				"style_tags": [
+					"Jazz",
+					"Jazz Blues",
+					"Jazz Rock"
+				],
+				"skill_tags": [
+					"Intermediate",
+					"Late Intermediate"
+				],
+				"series_tags": [
+					"Practice Sessions"
+				],
+				"curriculum_tags": [
+					"Techniques",
+					"Soloing",
+					"Improvisation",
+					"Scales",
+					"Arpeggios",
+					"Jamming",
+					"Jazz Scales",
+					"Phrasing",
+					"Melody",
+					"Applied Theory",
+					"Music Theory",
+					"Chord Tone",
+					"Style Studies",
+					"Fills",
+					"Harmony",
+					"Embellishments"
+				],
+				"educator": "Tom Dempsey",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 3,
+				"progress_tracking": 0
+			},
+			{
+				"downloadid": 17659,
+				"cd_downloads": 0,
+				"id": 1705,
+				"title": "Guitar Lab: I IV V Melodic Moves Vol. 2",
+				"status": 1,
+				"release_date": "2021-07-01 00:00:00",
+				"authorid": 7,
+				"video_count": 9,
+				"style_tags": [
+					""
+				],
+				"skill_tags": [
+					""
+				],
+				"series_tags": [
+					""
+				],
+				"curriculum_tags": [
+					""
+				],
+				"educator": "Brad Carlton",
+				"owned": 0,
+				"sale": 1,
+				"purchase_order": false,
+				"watched": 35,
+				"progress_tracking": 5.5556
+			}
+		],
+		"collections": {
+			"smart": [{
+					"id": "owned",
+					"label": "Owned",
+					"smart": "owned",
+					"courses": [
+						1505,
+						48,
+						1323,
+						680
+					],
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "Courses you purchase for download & offline access will appear here automatically."
+				},
+				{
+					"id": "recently_watched",
+					"label": "Recently Watched",
+					"smart": "recently_watched",
+					"courses": [
+						48,
+						680,
+						698,
+						985,
+						1013,
+						1023,
+						1031,
+						1034,
+						1115,
+						1154,
+						1271,
+						1258,
+						1338,
+						1342,
+						1323,
+						1367
+					],
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "Courses you've recently watched will appear here automatically."
+				},
+				{
+					"id": "favorites",
+					"label": "Favorites",
+					"smart": "favorites",
+					"courses": [
+						1023,
+						1631,
+						680
+					],
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "Courses you have starred as favorites will appear here automatically."
+				},
+				{
+					"id": "wishlist",
+					"label": "Wish List",
+					"smart": "wishlist",
+					"courses": [
+						1023,
+						1705,
+						1703,
+						1693,
+						1631
+					],
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "Courses you haven’t purchased but have added to one of your collections will appear here automatically. Purchase course downloads for offline access!"
+				},
+				{
+					"id": "in_progress",
+					"label": "In Progress",
+					"smart": "in_progress",
+					"courses": [
+						1705
+					],
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "Courses in which you have marked lessons as In Progress will appear here automatically."
+				},
+				{
+					"id": "completed",
+					"label": "Completed",
+					"smart": "completed",
+					"courses": [],
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "Courses in which you have marked all lessons as Complete will appear here automatically."
+				}
+			],
+			"user": [{
+					"id": 212051,
+					"label": "dfe",
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "",
+					"courses": [
+						1505,
+						1693,
+						1703
+					]
+				},
+				{
+					"id": 212050,
+					"label": "djj",
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "",
+					"courses": [
+						1703
+					]
+				},
+				{
+					"id": 212044,
+					"label": "fgh",
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "",
+					"courses": [
+						1703
+					]
+				},
+				{
+					"id": 212041,
+					"label": "hu",
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "",
+					"courses": [
+						1505
+					]
+				},
+				{
+					"id": 212040,
+					"label": "teu",
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "",
+					"courses": [
+						48,
+						1505
+					]
+				},
+				{
+					"id": 209926,
+					"label": "tttj",
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "",
+					"courses": [
+						1023,
+						1705
+					]
+				},
+				{
+					"id": 212054,
+					"label": "vdsgdgh",
+					"is_default": 0,
+					"is_archive": 0,
+					"description": "",
+					"courses": []
+				},
+				{
+					"id": 160848,
+					"label": "Archive",
+					"is_default": 0,
+					"is_archive": 1,
+					"description": "",
+					"courses": [
+						1442
+					]
+				}
+			],
+			"curated": []
+		}
+	}
+}
